@@ -22,7 +22,7 @@ main {
 }
 
 .details {
-    display:flex
+    display:flex;
     gap: 25px;
 }
 
@@ -34,10 +34,21 @@ main {
     border-radius: 20px;
     margin-top: 25px;
 }
+
 img {
-    width: 100%;
-    
+    width: 100%;   
 }
+
+h1{
+    background-image: url('images/Logo.png');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: center left;
+    font-size: 3em;
+    padding-left: 50px;
+
+}
+
 h2 {
     margin: 0 0 10px 0;
 }

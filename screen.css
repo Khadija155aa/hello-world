@@ -5,6 +5,7 @@ Body {
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #424242;
     margin: 0;
+    color:#424242;
 }
 
 main {
@@ -14,7 +15,7 @@ main {
 
 .masthead {
     background-image: url('images/Computer image.jpg');
-    background-size: cove;
+    background-size: cover;
     background-position: bottom;
     height: 250px;
     border-radius: 20px;
@@ -29,7 +30,7 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background:#eee;
-    padding: 20px;
+    padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
 }

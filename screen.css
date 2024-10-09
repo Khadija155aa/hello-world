@@ -1,6 +1,6 @@
 /* Add screen styles below */
 
-Body {
+body {
     background: #fff;
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #424242;
@@ -72,5 +72,5 @@ h2 {
 
 p {
     margin: 0;
-    line-height: 1.4cm;
+    line-height: 1.4em;
 }
